@@ -1,0 +1,10 @@
+basic.forever(function () {
+    basic.showIcon(IconNames.Heart)
+    basic.pause(1000)
+    basic.showIcon(IconNames.Happy)
+    basic.pause(1000)
+    basic.showIcon(IconNames.Ghost)
+    basic.pause(1000)
+    basic.showIcon(IconNames.EigthNote)
+    basic.pause(100)
+})
